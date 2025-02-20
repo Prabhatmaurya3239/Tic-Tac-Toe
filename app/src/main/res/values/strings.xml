@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="Hading">Welcome to Tic Tac Toe</string>
+    <string name="grid">Our Main Grid</string>
+    <string name="imege">Our imege</string>
+    <string name="reset">resetbuten</string>
+</resources>
