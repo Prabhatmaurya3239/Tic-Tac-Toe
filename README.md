@@ -10,14 +10,14 @@ This is a simple Tic Tac Toe game developed using Android Studio. The game allow
 - Restart game functionality
 
 ## Technologies Used
-- **Language:** Java/Kotlin
+- **Language:** Java
 - **IDE:** Android Studio
 - **UI Components:** XML Layouts, Buttons, TextViews
 
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Prabhatmaurya3239/tic-tac-toe.git
+   git clon https://github.com/Prabhatmaurya3239/Tic-Tac-Toe.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or a physical device.
@@ -29,8 +29,7 @@ This is a simple Tic Tac Toe game developed using Android Studio. The game allow
 4. If all cells are filled and no player wins, the game ends in a draw.
 5. Press the "Restart" button to start a new game.
 
-## Screenshots
-(Add screenshots of your app here)
+
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
